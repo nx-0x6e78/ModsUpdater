@@ -6,11 +6,10 @@
 
 ModsUpdater is a tool developed to simplify updating Minecraft mods. With this script, you can automate the update process of your favorite mods, ensuring that your game world always stays up to date with the latest or old versions of the mods.
 
-## <span color=green>YOU NEED SOME HELP, REPORT A BUG, OR A NEW FEATURE IDEA?</span>
-### <a href="https://github.com/Nex026/ModsUpdater/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=" color=red>Click here to report any Bug</a>
-### <a href="https://github.com/Nex026/ModsUpdater/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=" color=cyan>Click here to suggest any new feauture request</a>
-### <a href="https://github.com/Nex026/ModsUpdater/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=" color=yellow>Click here for general help</a>
-###
+## <span color=green>YOU NEED SOME HELP, REPORT A BUG, OR ASK NEW FEATURE IDEA?</span>
+### Click <a href="https://github.com/Nex026/ModsUpdater/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=" color=red>here</a> to report any Bug
+### Click <a href="https://github.com/Nex026/ModsUpdater/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=" color=cyan>here</a> to suggest any new feauture request
+### Click <a href="https://github.com/Nex026/ModsUpdater/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=" color=yellow>here</a> for general help
 
 ## <span color=green>MAIN FEATURES</span>
 
