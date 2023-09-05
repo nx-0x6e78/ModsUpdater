@@ -9,7 +9,7 @@ ModsUpdater is a tool developed to simplify updating Minecraft mods. With this s
 ## <span color=green>YOU NEED SOME HELP, REPORT A BUG, OR ASK NEW FEATURE IDEA?</span>
 ### Click <a href="https://github.com/Nex026/ModsUpdater/issues/new?assignees=&labels=&projects=&template=bug_report.md&title=" color=red>here</a> to report any Bug
 ### Click <a href="https://github.com/Nex026/ModsUpdater/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=" color=cyan>here</a> to suggest any new feauture request
-### Click <a href="https://github.com/Nex026/ModsUpdater/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=" color=yellow>here</a> for general help
+### Click <a href="https://github.com/Nex026/ModsUpdater/issues/new?assignees=&labels=&projects=&template=general.md&title=" color=yellow>here</a> for general help
 
 ## <span color=green>MAIN FEATURES</span>
 
