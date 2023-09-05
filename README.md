@@ -24,7 +24,7 @@ ModsUpdater is a tool developed to simplify updating Minecraft mods. With this s
 ### Downloading repo to your Computer.
 
 ```shell
-git clone link
+git clone [link](https://github.com/Nex026/ModsUpdater.git)
 ```
 
 ### Changing Directory
